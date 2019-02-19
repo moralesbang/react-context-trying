@@ -1,0 +1,15 @@
+button {
+  border: none;
+  border-radius: 50px;
+  padding: 1.2em 1em;
+  font-weight: bold;
+}
+
+.light {
+  background-color: #DAE1E7;
+}
+
+.dark {
+  background-color: #22292F;
+  color: #FFFFFF;
+}
